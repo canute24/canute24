@@ -9,9 +9,10 @@
 <br>
 <p align="left">
    <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/canute24/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/canute24/ColoredBadges/raw/master/svg/dev/misc/datascience.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/raspberrypi.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/canute24/ColoredBadges/raw/master/svg/dev/misc/datascience.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/iot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/mobile.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
