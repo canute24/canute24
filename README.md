@@ -4,7 +4,7 @@
 <br>
 - 👋 Hi, I’m @canute24
 - 👀 I’m interested in electronics, microcontrollers, python, data analytics, automation, linux and android
-- 🌱 I’m currently learning platformIO, micropython, Cpython, statistics and data analytics
+- 🌱 I’m currently learning platformIO, micropython, cpython, statistics and data analytics
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me through Twitter
 <br>
