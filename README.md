@@ -1,6 +1,6 @@
 [![Profile View Counter](https://komarev.com/ghpvc/?username=canute24)](https://github.com/canute24/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/canuteserrao?color=blue&label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/canuteserrao/)
-[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://www.gnu.org/)
 <br>
 - 👋 Hi, I’m @canute24
 - 👀 I’m interested in electronics, microcontrollers, python, data analytics, automation, linux and android
