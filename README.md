@@ -3,8 +3,8 @@
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://www.gnu.org/)
 <br>
 - 👋 Hi, I’m @canute24
-- 👀 I’m interested in electronics, microcontrollers, python, data analytics, automation, linux and android
-- 🌱 I’m currently learning platformIO, micropython, cpython, statistics and data analytics
+- 👀 I’m interested in electronics, microcontrollers, python, data analytics, automation, linux and android/replicant
+- 🌱 I’m currently learning ANSI C, Micropython, Cpython, pandas and statistics
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me through Twitter
 <br>
