@@ -2,11 +2,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/canuteserrao?color=blue&label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/canuteserrao/)
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://www.gnu.org/)
 <br>
-- 👋 Hi, I’m @canute24
-- 👀 I’m interested in electronics, microcontrollers, python, data analytics, automation, linux and android/replicant
-- 🌱 I’m currently learning ANSI C, Micropython, Cpython, pandas and statistics
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 You can reach me through Twitter
+- 👋 Hi, I’m @canute24. Professionally, I work in the research / consulting space for automobiles, logistics and finance. I have an engineering background.
+- 👀 I’m interested in electronics, microcontrollers, Python, data analytics, automation, GNU/Linux and Android / Replicant as a hobby.
+- 🌱 I’m currently learning C, Micropython, Cpython, pandas and statistics.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 You can reach me through Twitter.
 <br>
 <p align="left">
    <a href="#">
