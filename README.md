@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/canuteserrao?color=blue&label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/canuteserrao/)
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://www.gnu.org/)
 <br>
-- 👋 Hi, I’m @canute24. Professionally, I work in the research / consulting space for automobiles, logistics and finance. I have an engineering background.
+- 👋 Hi, I’m @canute24. Engineering and Finance by education. Working as research / consulting professional for automobiles & logistics.
 - 👀 I’m interested in electronics, microcontrollers, Python, data analytics, automation, GNU/Linux and Android / Replicant as a hobby.
 - 🌱 I’m currently learning C, Micropython, Cpython, pandas and statistics.
 - 💞️ I’m looking to collaborate on open source projects.
