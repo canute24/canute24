@@ -1,6 +1,7 @@
-[![Profile View Counter](https://komarev.com/ghpvc/?username=canute24)](https://github.com/canute24/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/canuteserrao?color=blue&label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/canuteserrao/)
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://www.gnu.org/)
+[![Profile View Counter](https://komarev.com/ghpvc/?username=canute24)](https://github.com/canute24/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/canuteserrao?label=Twitter&color=blue&logo=twitter&style=flat-square)](https://twitter.com/canuteserrao/)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109610720826072352?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&logo=mastodon&style=flat-square)](https://fosstodon.org/@canute)
 <br>
 - 👋 Hi, I’m @canute24. Engineering and Finance by education. Working as research / consulting professional for automobiles & logistics.
 - 👀 I’m interested in electronics, microcontrollers, Python, data analytics, automation, GNU/Linux and Android / Replicant as a hobby.
